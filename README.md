@@ -27,11 +27,11 @@
             <button class="btn-proximo" data-proximo="5">Investigar as igrejas antigas</button>
             <button class="btn-proximo" data-proximo="6">Explorar as praias próximas</button>
         </div>
-        <div class="passo" id="passo-3">
+     <div class="passo" id="passo-3">
             <p>No topo do Pico da Tijuca, você encontra uma antiga inscrição apontando que a próxima pista está
                 localizada no Amazonas.</p>
             <button class="btn-proximo" data-proximo="7">Seguir para o Amazonas</button>
-        </div>
+     </div>
 
 <div class="passo" id="passo-4">
             <img src="img/cenario-passo4-voltar-casa.png" alt="imagem voltando para casa e desitindo da aventura">
